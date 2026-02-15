@@ -1,6 +1,6 @@
-# CVS Store Assistant (SLM + RAG)
+# Retail Store Assistant (SLM + RAG)
 
-A store operations assistant for retail pharmacy: answers policy/SOP questions using RAG over your documents and inventory/analytics questions using a local SQLite DB, powered by a small language model (Ollama) and safety guardrails.
+A store operations assistant for retail store: answers policy/SOP questions using RAG over your documents and inventory/analytics questions using a local SQLite DB, powered by a small language model (Ollama) and safety guardrails.
 
 ## Features
 
