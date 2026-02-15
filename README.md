@@ -18,21 +18,6 @@ A store operations assistant for retail store: answers policy/SOP questions usin
   ollama pull phi3:mini
   ```
 
-## Push to GitHub
-
-From the project root (e.g. `AI Project` or `cvs_slm_assistant`, depending on where you want the repo root):
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: CVS Store Assistant (SLM + RAG)"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-
-Create the repository on GitHub first (empty, no README), then use its URL in `git remote add origin`.
-
 ## Setup
 
 1. **Clone the repo** (or use this folder):
