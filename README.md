@@ -13,7 +13,7 @@ A store operations assistant for retail pharmacy: answers policy/SOP questions u
 ## Prerequisites
 
 - **Python 3.10+**
-- **Ollama** running locally with a model (e.g. `phi3:mini`). Install from [ollama.ai](https://ollama.ai) and run:
+- **Ollama** running locally with a model (e.g. `phi3:mini`). Download and install from [ollama.ai](https://ollama.ai) (do not commit the installer to the repo). Then run:
   ```bash
   ollama pull phi3:mini
   ```
